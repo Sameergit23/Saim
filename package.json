@@ -1,0 +1,26 @@
+{
+  "name": "saim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sameergit23/Saim.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sameergit23/Saim/issues"
+  },
+  "homepage": "https://github.com/Sameergit23/Saim#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.1",
+    "moment": "^2.30.1",
+    "simple-git": "^3.36.0"
+  }
+}
